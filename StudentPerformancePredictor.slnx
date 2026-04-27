@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="StudentPerformancePredictor.Api/StudentPerformancePredictor.Api.csproj" />
+  <Project Path="StudentPerformancePredictor.Core/StudentPerformancePredictor.Core.csproj" />
+  <Project Path="StudentPerformancePredictor.Infrastructure/StudentPerformancePredictor.Infrastructure.csproj" />
+  <Project Path="StudentPerformancePredictor.ML/StudentPerformancePredictor.ML.csproj" />
+  <Project Path="StudentPerformancePredictor.Trainer/StudentPerformancePredictor.Trainer.csproj" Id="5068ab84-2441-4086-96ce-21b3f1f02fbc" />
+</Solution>
