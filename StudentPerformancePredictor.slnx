@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="StudentPerformancePredictor.Api/StudentPerformancePredictor.Api.csproj" />
   <Project Path="StudentPerformancePredictor.Core/StudentPerformancePredictor.Core.csproj" />
   <Project Path="StudentPerformancePredictor.Infrastructure/StudentPerformancePredictor.Infrastructure.csproj" />
